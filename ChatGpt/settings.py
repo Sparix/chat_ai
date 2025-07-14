@@ -69,6 +69,8 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'ChatGpt.wsgi.application'
 
+OPENAI_API_KEY = "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"
+
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
